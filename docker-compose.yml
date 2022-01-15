@@ -15,7 +15,7 @@ services:
    volumes:
      - rserve-volume:/rserve
    ports:
-     - "2376:2376"s
+     - "2376:2376"
       
 volumes:
   rserve-volume:
